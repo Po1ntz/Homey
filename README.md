@@ -52,7 +52,7 @@
 | Feature       | Supported        |
 |---------------|------------------|
 | Minecraft     | 25w20a          |
-| Multiplayer   | ✅ Yes           |
+| Multiplayer   | ✅ Yes  (untested)         |
 | Other Datapacks | ⚠️ Partial (depends on function conflicts) |
 
 ---
