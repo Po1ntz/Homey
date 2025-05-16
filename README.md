@@ -57,12 +57,6 @@
 
 ---
 
-## 📸 Showcase
-
-*(You can add screenshots or GIFs here showing the dialog menu and teleportation)*
-
----
-
 ## 🤝 Contributing
 
 Pull requests are welcome! If you'd like to suggest features or report bugs, feel free to open an issue.
