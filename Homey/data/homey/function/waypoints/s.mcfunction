@@ -1,1 +1,0 @@
-$function homey:waypoints/show with storage homey:waypoints $(id)

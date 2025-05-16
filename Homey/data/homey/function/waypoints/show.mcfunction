@@ -1,1 +1,0 @@
-$dialog show @s {"type":"minecraft:multi_action","title":"Waypoints","can_close_with_escape":true,"columns":2,"actions": $(actions)}

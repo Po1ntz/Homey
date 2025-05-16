@@ -1,1 +1,0 @@
-$data modify storage homey:waypoints $(id).actions append value {"label":"🗙","tooltip":[{"text":"Delete Waypoint"},{"text":"Warning: This action is irreversible","color":"#e21212","bold":true}],"width":20,"on_click":{"action":"run_command","command":"function homey:waypoints/remove {\u0022id\u0022:$(id), \u0022count\u0022:$(count)}"}}
